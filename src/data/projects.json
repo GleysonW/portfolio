@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Dashboard Covid-19 e Mobilidade",
+    "imageSrc": "projects/projeto1.jpg",
+    "description": "Dashboard interativo voltado para profissionais da saúde, que apresenta a evolução dos casos de Covid-19 juntamente com as mudanças na mobilidade durante o período analisado.",
+    "skills": ["Python", "Dash", "Pandas", "Plotly"],
+    "demo": "",
+    "source": "https://github.com/GleysonW/DASHBOARD-COVID-AND-MOBILITY"
+  },
+  {
+    "title": "E-Farm",
+    "imageSrc": "projects/projeto2.png",
+    "description": "Aplicativo mobile para pequenos produtores e trabalhadores rurais, que facilita o controle de gastos e lucros com gráficos intuitivos e dados atualizados em tempo real.",
+    "skills": ["Node", "React Native", "Axios", "Express"],
+    "demo": "",
+    "source": "https://github.com/GleysonW/eFarm-mobile"
+  },
+  {
+    "title": "Meu Portfólio",
+    "imageSrc": "projects/projeto3.jpg",
+    "description": "",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "demo": "",
+    "source": "https://github.com/GleysonW/eFarm-mobile/portfolio"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Projeto Extensionista - Big Data",
+    "organisation": "",
+    "startDate": "Set, 2024",
+    "endDate": "Dez, 2024",
+    "experiences": ["Desenvolvimento de dashboard interativo com Dash, Pandas e Plotly", "Análise da evolução dos casos de COVID-19 juntamente com as mudanças na mobilidade durante o período"],
+    "imageSrc": "history/bigdata.png"
+  },
+  {
+    "role": " Projeto Extensionista - Desenvolvimento WEB",
+    "organisation": "",
+    "startDate": "Set, 2023",
+    "endDate": "Dez, 2023",
+    "experiences": ["Desenvolvimento de um site responsivo para uma empresa de jogos", "Utilização de HTML, CSS e JavaScript"],
+    "imageSrc": "history/devweb.png"
+  },
+  {
+    "role": " Estágio Profissional - IFPE",
+    "organisation": "StudioCiane",
+    "startDate": "Ago, 2021",
+    "endDate": "Mar, 2022",
+    "experiences": [
+      "Projetos técnicos utilizando ferramentas como AutoCAD e SketchUp",
+      "Experiência em modelagem e representação gráfica"
+    ],
+    "imageSrc": "history/studiociane.png"
+  }
+]
