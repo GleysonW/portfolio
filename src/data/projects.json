@@ -8,6 +8,14 @@
     "source": "https://github.com/GleysonW/DASHBOARD-COVID-AND-MOBILITY"
   },
   {
+  "title": "Dashboards Power BI - Curso DSA",
+  "imageSrc": "projects/dashs.png",
+  "description": "Coleção de dashboards desenvolvidos no Power BI durante o curso da DSA, explorando análise de dados, visualizações interativas e boas práticas em BI.",
+  "skills": ["Power BI", "DAX", "ETL", "Modelagem de Dados"],
+  "demo": "",
+  "source": "https://github.com/GleysonW/projetos-powerbi"
+  },
+  {
     "title": "E-Farm",
     "imageSrc": "projects/projeto2.png",
     "description": "Aplicativo mobile para pequenos produtores e trabalhadores rurais, que facilita o controle de gastos e lucros com gráficos intuitivos e dados atualizados em tempo real.",
